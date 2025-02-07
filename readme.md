@@ -18,3 +18,6 @@ Permet de lister les modifications à traiter
 
 ## git log
 Permet de voir l'historique des modification
+
+## git log --oneline
+Permet de voir l'historique resumé des modifications
