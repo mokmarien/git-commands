@@ -40,3 +40,8 @@
 
 ## git merge
 - Permet de recuperer les données de la branche fille(features/code-html) vers la branche parente (Main)
+
+## git reset
+- Permet de supprimer un commit
+- Permet aussi de revernir à un commit défini par son identifiant
+- Attention à utiliser avec précaution
