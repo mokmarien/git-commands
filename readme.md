@@ -37,3 +37,6 @@
 - Permet de recuperer les modification dans la branche parente ou mère
 - Les modification de la branche mère sont placées en dessous des modification de la branches courante
 - Les modification de la branche courante sont placées au dessus des modification de la branches mère
+
+## git merge
+- Permet de recuperer les données de la branche fille(features/code-html) vers la branche parente (Main)
