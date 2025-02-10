@@ -21,3 +21,11 @@ Permet de voir l'historique des modification
 
 ## git log --oneline
 Permet de voir l'historique resumé des modifications
+
+## git branch
+Permet de créer une branche
+
+## git checkout
+-Permet de passer d'une branche à une autre
+-Permet de se deplacer d'une branche à une autre
+-Avec l'option -b checkout crée la branche si elle n'existe pas
