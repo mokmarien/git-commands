@@ -48,3 +48,8 @@
 
 ## git diff
 - Permet de comparer deux commits
+
+## git clone
+- Permet de recuperer tous le projet en ligne
+par exemple:
+git clone https://github.com/mokmarien/git-commands.git
