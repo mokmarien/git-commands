@@ -29,3 +29,6 @@
 -Permet de passer d'une branche à une autre
 -Permet de se deplacer d'une branche à une autre
 -Avec l'option -b checkout crée la branche si elle n'existe pas
+
+## git pull
+-Permet de recuperer les modifications distantes
