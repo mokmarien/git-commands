@@ -1,5 +1,5 @@
 #Commande git
->Liste des commandes git
+Liste des commandes git
 ## git init
 - Permet d'initialiser un repertoire
 ## git add
